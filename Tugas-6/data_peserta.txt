@@ -1,0 +1,5 @@
+Data Peserta GC-INS Bootcamp Laravel Web Dev
+1. Nama: <Wahyu rianto>
+2. Email: <riantowahyu68@gmail.com>
+3. Akun Gitlab: <wahyu rianto>
+4. Akun Telegram: <wahyu rianto>
