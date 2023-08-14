@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T15:44:32.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.8" etag="89eN911GiplVSTN2Ok1p" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T16:06:38.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="JM5_HNR1mQ8QqcIYS9ue" version="21.6.8" type="github">
   <diagram name="Halaman-1" id="v372xsGA_rHLu-ZodvYi">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9sSvFp7Qc537gfHKGCcf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sSvFp7Qc537gfHKGCcf-1" target="9sSvFp7Qc537gfHKGCcf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sSvFp7Qc537gfHKGCcf-1" value="Profil&lt;br&gt;1.id (PK)&lt;br&gt;2.umur&lt;br&gt;3.Bio&lt;br&gt;4.alamat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9sSvFp7Qc537gfHKGCcf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sSvFp7Qc537gfHKGCcf-2" target="9sSvFp7Qc537gfHKGCcf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sSvFp7Qc537gfHKGCcf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sSvFp7Qc537gfHKGCcf-2" target="9sSvFp7Qc537gfHKGCcf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sSvFp7Qc537gfHKGCcf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sSvFp7Qc537gfHKGCcf-2" target="9sSvFp7Qc537gfHKGCcf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sSvFp7Qc537gfHKGCcf-2" value="User&lt;br&gt;1.id (Pk)&lt;br&gt;2.username&lt;br&gt;3.email&lt;br&gt;4.password&lt;br&gt;5.profil_id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9sSvFp7Qc537gfHKGCcf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sSvFp7Qc537gfHKGCcf-3" target="9sSvFp7Qc537gfHKGCcf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sSvFp7Qc537gfHKGCcf-3" value="Cast&lt;br&gt;1.id(Pk)&lt;br&gt;2.nama&lt;br&gt;3.umur&lt;br&gt;4.bio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="70" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9sSvFp7Qc537gfHKGCcf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sSvFp7Qc537gfHKGCcf-4" target="9sSvFp7Qc537gfHKGCcf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sSvFp7Qc537gfHKGCcf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sSvFp7Qc537gfHKGCcf-4" target="9sSvFp7Qc537gfHKGCcf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sSvFp7Qc537gfHKGCcf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.363;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9sSvFp7Qc537gfHKGCcf-4" target="9sSvFp7Qc537gfHKGCcf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sSvFp7Qc537gfHKGCcf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9sSvFp7Qc537gfHKGCcf-4" target="9sSvFp7Qc537gfHKGCcf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9sSvFp7Qc537gfHKGCcf-4" value="Film&lt;br&gt;1.id(Pk)&lt;br&gt;2.judul&lt;br&gt;3.ringkasan&lt;br&gt;4.tahun&lt;br&gt;5.poster" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9sSvFp7Qc537gfHKGCcf-7" value="Genre&lt;br&gt;1.id(pk)&lt;br&gt;2.nama" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9sSvFp7Qc537gfHKGCcf-8" value="film_genre&lt;br&gt;1.film_id(Pk)&lt;br&gt;2.genre_id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9sSvFp7Qc537gfHKGCcf-9" value="Ulasan&lt;br&gt;1.user_id(Pk)&lt;br&gt;2.film_id&lt;br&gt;3.ulasan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
